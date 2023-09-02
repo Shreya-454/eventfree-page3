@@ -1,0 +1,350 @@
+ <section class="min-vh-100  d-flex align-items-center justify-content-center sec-5 position-relative">
+        <div class="container">
+            <div class="d-flex justify-content-center">
+                <p class="fs-40 fw-600 ff-poppins col-black">What Our Client Saying</p>
+            </div>
+            <div class="my-slide">
+                <div class="card2">
+                    <span><svg width="162" height="26" viewBox="0 0 162 26" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_2_6442)">
+                                <path
+                                    d="M149.04 15.8773L152.082 17.7406L151.255 14.2631L153.963 11.9372L150.41 11.6512L149.04 8.35025V15.8773ZM149.04 18.4166L142.692 22.3058L144.418 15.0474L138.769 10.1941L146.183 9.59825L149.04 2.70825L151.897 9.59825L159.312 10.1941L153.662 15.0474L155.388 22.3058L149.04 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip1_2_6442)">
+                                <path
+                                    d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip2_2_6442)">
+                                <path
+                                    d="M46.98 18.4166L40.6318 22.3058L42.3576 15.0474L36.7092 10.1941L44.1234 9.59825L46.98 2.70825L49.8366 9.59825L57.2519 10.1941L51.6024 15.0474L53.3283 22.3058L46.98 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip3_2_6442)">
+                                <path
+                                    d="M81 18.4166L74.6518 22.3058L76.3776 15.0474L70.7292 10.1941L78.1434 9.59825L81 2.70825L83.8566 9.59825L91.2719 10.1941L85.6224 15.0474L87.3483 22.3058L81 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip4_2_6442)">
+                                <path
+                                    d="M115.02 18.4166L108.672 22.3058L110.398 15.0474L104.749 10.1941L112.163 9.59825L115.02 2.70825L117.877 9.59825L125.292 10.1941L119.642 15.0474L121.368 22.3058L115.02 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(136.08)" />
+                                </clipPath>
+                                <clipPath id="clip1_2_6442">
+                                    <rect width="25.92" height="26" fill="white" />
+                                </clipPath>
+                                <clipPath id="clip2_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(34.02)" />
+                                </clipPath>
+                                <clipPath id="clip3_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(68.04)" />
+                                </clipPath>
+                                <clipPath id="clip4_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(102.06)" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </span>
+                    <p class="fs-16 fw-400 ff-poppins col-grey mw-320">Lorem ipsum dolor sit amet, consecte tur
+                        adipiscing
+                        elit. Ultrices blandit pelle ntesque nibh arcu elementum odio justo.
+                        Rhoncus.</p>
+                    <div class="d-flex align-items-center justify-content-between">
+                        <div class="d-flex align-items-center">
+                            <img src="./assets/images/png/img3.png" alt="img3">
+                            <div class="pl-10 d-flex flex-column align-items-center">
+                                <p class="fs-18 fw-600 ff-poppins col-orange mb-0">Phillip Levin</p>
+                                <p class="ff-poppins fs-12 fw-300 col-grey mb-0">CEO / Creative IT</p>
+                            </div>
+                        </div>
+                        <div>
+                            <span><svg width="60" height="60" viewBox="0 0 60 60" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_2_6468)">
+                                        <path
+                                            d="M48.5425 16.6974C51.1175 19.4324 52.5 22.4999 52.5 27.4724C52.5 36.2224 46.3575 44.0649 37.425 47.9424L35.1925 44.4974C43.53 39.9874 45.16 34.1349 45.81 30.4449C44.4675 31.1399 42.71 31.3824 40.9875 31.2224C36.4775 30.8049 32.9225 27.1024 32.9225 22.4999C32.9225 20.1792 33.8444 17.9536 35.4853 16.3127C37.1263 14.6717 39.3519 13.7499 41.6725 13.7499C44.355 13.7499 46.92 14.9749 48.5425 16.6974ZM23.5425 16.6974C26.1175 19.4324 27.5 22.4999 27.5 27.4724C27.5 36.2224 21.3575 44.0649 12.425 47.9424L10.1925 44.4974C18.53 39.9874 20.16 34.1349 20.81 30.4449C19.4675 31.1399 17.71 31.3824 15.9875 31.2224C11.4775 30.8049 7.9225 27.1024 7.9225 22.4999C7.9225 20.1792 8.84437 17.9536 10.4853 16.3127C12.1263 14.6717 14.3519 13.7499 16.6725 13.7499C19.355 13.7499 21.92 14.9749 23.5425 16.6974Z"
+                                            fill="#BCC1C7" />
+                                    </g>
+                                    <defs>
+                                        <clipPath id="clip0_2_6468">
+                                            <rect width="60" height="60" fill="white"
+                                                transform="matrix(-1 0 0 -1 60 60)" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card2">
+                    <span><svg width="162" height="26" viewBox="0 0 162 26" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_2_6442)">
+                                <path
+                                    d="M149.04 15.8773L152.082 17.7406L151.255 14.2631L153.963 11.9372L150.41 11.6512L149.04 8.35025V15.8773ZM149.04 18.4166L142.692 22.3058L144.418 15.0474L138.769 10.1941L146.183 9.59825L149.04 2.70825L151.897 9.59825L159.312 10.1941L153.662 15.0474L155.388 22.3058L149.04 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip1_2_6442)">
+                                <path
+                                    d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip2_2_6442)">
+                                <path
+                                    d="M46.98 18.4166L40.6318 22.3058L42.3576 15.0474L36.7092 10.1941L44.1234 9.59825L46.98 2.70825L49.8366 9.59825L57.2519 10.1941L51.6024 15.0474L53.3283 22.3058L46.98 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip3_2_6442)">
+                                <path
+                                    d="M81 18.4166L74.6518 22.3058L76.3776 15.0474L70.7292 10.1941L78.1434 9.59825L81 2.70825L83.8566 9.59825L91.2719 10.1941L85.6224 15.0474L87.3483 22.3058L81 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip4_2_6442)">
+                                <path
+                                    d="M115.02 18.4166L108.672 22.3058L110.398 15.0474L104.749 10.1941L112.163 9.59825L115.02 2.70825L117.877 9.59825L125.292 10.1941L119.642 15.0474L121.368 22.3058L115.02 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(136.08)" />
+                                </clipPath>
+                                <clipPath id="clip1_2_6442">
+                                    <rect width="25.92" height="26" fill="white" />
+                                </clipPath>
+                                <clipPath id="clip2_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(34.02)" />
+                                </clipPath>
+                                <clipPath id="clip3_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(68.04)" />
+                                </clipPath>
+                                <clipPath id="clip4_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(102.06)" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </span>
+                    <p class="fs-16 fw-400 ff-poppins col-grey mw-320">Lorem ipsum dolor sit amet, consecte tur
+                        adipiscing
+                        elit. Ultrices blandit pelle ntesque nibh arcu elementum odio justo.
+                        Rhoncus.</p>
+                    <div class="d-flex align-items-center justify-content-between">
+                        <div class="d-flex align-items-center">
+                            <img src="./assets/images/png/img3.png" alt="img3">
+                            <div class="pl-10 d-flex flex-column align-items-center">
+                                <p class="fs-18 fw-600 ff-poppins col-orange mb-0">Phillip Levin</p>
+                                <p class="ff-poppins fs-12 fw-300 col-grey mb-0">CEO / Creative IT</p>
+                            </div>
+                        </div>
+                        <div>
+                            <span><svg width="60" height="60" viewBox="0 0 60 60" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_2_6468)">
+                                        <path
+                                            d="M48.5425 16.6974C51.1175 19.4324 52.5 22.4999 52.5 27.4724C52.5 36.2224 46.3575 44.0649 37.425 47.9424L35.1925 44.4974C43.53 39.9874 45.16 34.1349 45.81 30.4449C44.4675 31.1399 42.71 31.3824 40.9875 31.2224C36.4775 30.8049 32.9225 27.1024 32.9225 22.4999C32.9225 20.1792 33.8444 17.9536 35.4853 16.3127C37.1263 14.6717 39.3519 13.7499 41.6725 13.7499C44.355 13.7499 46.92 14.9749 48.5425 16.6974ZM23.5425 16.6974C26.1175 19.4324 27.5 22.4999 27.5 27.4724C27.5 36.2224 21.3575 44.0649 12.425 47.9424L10.1925 44.4974C18.53 39.9874 20.16 34.1349 20.81 30.4449C19.4675 31.1399 17.71 31.3824 15.9875 31.2224C11.4775 30.8049 7.9225 27.1024 7.9225 22.4999C7.9225 20.1792 8.84437 17.9536 10.4853 16.3127C12.1263 14.6717 14.3519 13.7499 16.6725 13.7499C19.355 13.7499 21.92 14.9749 23.5425 16.6974Z"
+                                            fill="#BCC1C7" />
+                                    </g>
+                                    <defs>
+                                        <clipPath id="clip0_2_6468">
+                                            <rect width="60" height="60" fill="white"
+                                                transform="matrix(-1 0 0 -1 60 60)" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card2">
+                    <span><svg width="162" height="26" viewBox="0 0 162 26" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_2_6442)">
+                                <path
+                                    d="M149.04 15.8773L152.082 17.7406L151.255 14.2631L153.963 11.9372L150.41 11.6512L149.04 8.35025V15.8773ZM149.04 18.4166L142.692 22.3058L144.418 15.0474L138.769 10.1941L146.183 9.59825L149.04 2.70825L151.897 9.59825L159.312 10.1941L153.662 15.0474L155.388 22.3058L149.04 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip1_2_6442)">
+                                <path
+                                    d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip2_2_6442)">
+                                <path
+                                    d="M46.98 18.4166L40.6318 22.3058L42.3576 15.0474L36.7092 10.1941L44.1234 9.59825L46.98 2.70825L49.8366 9.59825L57.2519 10.1941L51.6024 15.0474L53.3283 22.3058L46.98 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip3_2_6442)">
+                                <path
+                                    d="M81 18.4166L74.6518 22.3058L76.3776 15.0474L70.7292 10.1941L78.1434 9.59825L81 2.70825L83.8566 9.59825L91.2719 10.1941L85.6224 15.0474L87.3483 22.3058L81 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip4_2_6442)">
+                                <path
+                                    d="M115.02 18.4166L108.672 22.3058L110.398 15.0474L104.749 10.1941L112.163 9.59825L115.02 2.70825L117.877 9.59825L125.292 10.1941L119.642 15.0474L121.368 22.3058L115.02 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(136.08)" />
+                                </clipPath>
+                                <clipPath id="clip1_2_6442">
+                                    <rect width="25.92" height="26" fill="white" />
+                                </clipPath>
+                                <clipPath id="clip2_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(34.02)" />
+                                </clipPath>
+                                <clipPath id="clip3_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(68.04)" />
+                                </clipPath>
+                                <clipPath id="clip4_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(102.06)" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </span>
+                    <p class="fs-16 fw-400 ff-poppins col-grey mw-320">Lorem ipsum dolor sit amet, consecte tur
+                        adipiscing
+                        elit. Ultrices blandit pelle ntesque nibh arcu elementum odio justo.
+                        Rhoncus.</p>
+                    <div class="d-flex align-items-center justify-content-between">
+                        <div class="d-flex align-items-center">
+                            <img src="./assets/images/png/img3.png" alt="img3">
+                            <div class="pl-10 d-flex flex-column align-items-center">
+                                <p class="fs-18 fw-600 ff-poppins col-orange mb-0">Phillip Levin</p>
+                                <p class="ff-poppins fs-12 fw-300 col-grey mb-0">CEO / Creative IT</p>
+                            </div>
+                        </div>
+                        <div>
+                            <span><svg width="60" height="60" viewBox="0 0 60 60" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_2_6468)">
+                                        <path
+                                            d="M48.5425 16.6974C51.1175 19.4324 52.5 22.4999 52.5 27.4724C52.5 36.2224 46.3575 44.0649 37.425 47.9424L35.1925 44.4974C43.53 39.9874 45.16 34.1349 45.81 30.4449C44.4675 31.1399 42.71 31.3824 40.9875 31.2224C36.4775 30.8049 32.9225 27.1024 32.9225 22.4999C32.9225 20.1792 33.8444 17.9536 35.4853 16.3127C37.1263 14.6717 39.3519 13.7499 41.6725 13.7499C44.355 13.7499 46.92 14.9749 48.5425 16.6974ZM23.5425 16.6974C26.1175 19.4324 27.5 22.4999 27.5 27.4724C27.5 36.2224 21.3575 44.0649 12.425 47.9424L10.1925 44.4974C18.53 39.9874 20.16 34.1349 20.81 30.4449C19.4675 31.1399 17.71 31.3824 15.9875 31.2224C11.4775 30.8049 7.9225 27.1024 7.9225 22.4999C7.9225 20.1792 8.84437 17.9536 10.4853 16.3127C12.1263 14.6717 14.3519 13.7499 16.6725 13.7499C19.355 13.7499 21.92 14.9749 23.5425 16.6974Z"
+                                            fill="#BCC1C7" />
+                                    </g>
+                                    <defs>
+                                        <clipPath id="clip0_2_6468">
+                                            <rect width="60" height="60" fill="white"
+                                                transform="matrix(-1 0 0 -1 60 60)" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card2">
+                    <span><svg width="162" height="26" viewBox="0 0 162 26" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_2_6442)">
+                                <path
+                                    d="M149.04 15.8773L152.082 17.7406L151.255 14.2631L153.963 11.9372L150.41 11.6512L149.04 8.35025V15.8773ZM149.04 18.4166L142.692 22.3058L144.418 15.0474L138.769 10.1941L146.183 9.59825L149.04 2.70825L151.897 9.59825L159.312 10.1941L153.662 15.0474L155.388 22.3058L149.04 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip1_2_6442)">
+                                <path
+                                    d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip2_2_6442)">
+                                <path
+                                    d="M46.98 18.4166L40.6318 22.3058L42.3576 15.0474L36.7092 10.1941L44.1234 9.59825L46.98 2.70825L49.8366 9.59825L57.2519 10.1941L51.6024 15.0474L53.3283 22.3058L46.98 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip3_2_6442)">
+                                <path
+                                    d="M81 18.4166L74.6518 22.3058L76.3776 15.0474L70.7292 10.1941L78.1434 9.59825L81 2.70825L83.8566 9.59825L91.2719 10.1941L85.6224 15.0474L87.3483 22.3058L81 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <g clip-path="url(#clip4_2_6442)">
+                                <path
+                                    d="M115.02 18.4166L108.672 22.3058L110.398 15.0474L104.749 10.1941L112.163 9.59825L115.02 2.70825L117.877 9.59825L125.292 10.1941L119.642 15.0474L121.368 22.3058L115.02 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(136.08)" />
+                                </clipPath>
+                                <clipPath id="clip1_2_6442">
+                                    <rect width="25.92" height="26" fill="white" />
+                                </clipPath>
+                                <clipPath id="clip2_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(34.02)" />
+                                </clipPath>
+                                <clipPath id="clip3_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(68.04)" />
+                                </clipPath>
+                                <clipPath id="clip4_2_6442">
+                                    <rect width="25.92" height="26" fill="white" transform="translate(102.06)" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </span>
+                    <p class="fs-16 fw-400 ff-poppins col-grey mw-320">Lorem ipsum dolor sit amet, consecte tur
+                        adipiscing
+                        elit. Ultrices blandit pelle ntesque nibh arcu elementum odio justo.
+                        Rhoncus.</p>
+                    <div class="d-flex align-items-center justify-content-between">
+                        <div class="d-flex align-items-center">
+                            <img src="./assets/images/png/img3.png" alt="img3">
+                            <div class="pl-10 d-flex flex-column align-items-center">
+                                <p class="fs-18 fw-600 ff-poppins col-orange mb-0">Phillip Levin</p>
+                                <p class="ff-poppins fs-12 fw-300 col-grey mb-0">CEO / Creative IT</p>
+                            </div>
+                        </div>
+                        <div>
+                            <span><svg width="60" height="60" viewBox="0 0 60 60" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_2_6468)">
+                                        <path
+                                            d="M48.5425 16.6974C51.1175 19.4324 52.5 22.4999 52.5 27.4724C52.5 36.2224 46.3575 44.0649 37.425 47.9424L35.1925 44.4974C43.53 39.9874 45.16 34.1349 45.81 30.4449C44.4675 31.1399 42.71 31.3824 40.9875 31.2224C36.4775 30.8049 32.9225 27.1024 32.9225 22.4999C32.9225 20.1792 33.8444 17.9536 35.4853 16.3127C37.1263 14.6717 39.3519 13.7499 41.6725 13.7499C44.355 13.7499 46.92 14.9749 48.5425 16.6974ZM23.5425 16.6974C26.1175 19.4324 27.5 22.4999 27.5 27.4724C27.5 36.2224 21.3575 44.0649 12.425 47.9424L10.1925 44.4974C18.53 39.9874 20.16 34.1349 20.81 30.4449C19.4675 31.1399 17.71 31.3824 15.9875 31.2224C11.4775 30.8049 7.9225 27.1024 7.9225 22.4999C7.9225 20.1792 8.84437 17.9536 10.4853 16.3127C12.1263 14.6717 14.3519 13.7499 16.6725 13.7499C19.355 13.7499 21.92 14.9749 23.5425 16.6974Z"
+                                            fill="#BCC1C7" />
+                                    </g>
+                                    <defs>
+                                        <clipPath id="clip0_2_6468">
+                                            <rect width="60" height="60" fill="white"
+                                                transform="matrix(-1 0 0 -1 60 60)" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pos-ab">
+                <div class="circle d-flex justify-content-center align-items-center mt-5 prev">
+                    <span><svg width="30" height="30" viewBox="0 0 30 30" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M13.5349 15.0001L19.7224 21.1876L17.9549 22.9551L9.99991 15.0001L17.9549 7.04508L19.7224 8.81258L13.5349 15.0001Z"
+                                fill="#373737" />
+                        </svg>
+                    </span>
+                </div>
+            </div>
+            <div class="pos-abs">
+            <div class="circle d-flex justify-content-center align-items-center mt-5 next">
+                <span><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6421)">
+                            <path
+                                d="M16.4648 14.9999L10.2773 8.81242L12.0448 7.04492L19.9998 14.9999L12.0448 22.9549L10.2773 21.1874L16.4648 14.9999Z"
+                                fill="black" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6421">
+                                <rect width="30" height="30" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+
+                </span>
+            </div>
+            </div>
+        </div>
+    </section>
